@@ -1,6 +1,6 @@
 ## About Me
 
-Full-stack developer building AI-integrated web applications with production-grade auth, CI/CD, and test coverage. Current focus areas include Next.js, FastAPI, and PostgreSQL, combined with LLM-driven features such as RAG pipelines and explainable scoring. Open to opportunities in PropTech and health-tech.
+Full-stack engineer building AI-integrated applications end to end, from data layer to deployment. Recent work includes a RAG-based resume-to-job matching platform with hybrid semantic scoring, a hospital readmission risk model with SHAP-based explainability, and a booking system with concurrency-safe transaction handling and role-based approval workflows. Comfortable across the stack: React/Next.js on the frontend, Python/FastAPI and Node/Express on the backend, PostgreSQL with Prisma or Drizzle, and Docker-based CI/CD. Targeting AI Engineer, Full-Stack AI Engineer, and Software Engineer roles.
 
 ## 🚀 Recent Projects
 - **[Smart_Tour](https://github.com/veenadhariponukumati/Smart_Tour)**: Self-guided apartment tour booking platform with a concurrency-safe booking flow, role-gated manager approval, and tokenized access-code issuance. Next.js 16, Prisma, Clerk.
