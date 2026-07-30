@@ -1,12 +1,12 @@
 # 💫 About Me:
-🔭 I'm currently building AI-integrated full-stack apps (Next.js, FastAPI, PostgreSQL)<br>👯 I'm looking to collaborate on PropTech and health-tech projects<br>🌱 I'm currently learning Temporal workflows and MLOps<br>💬 Ask me about Next.js, FastAPI, RAG pipelines, or LLM-integrated apps<br>⚡ Fun fact: I build portfolio projects with real auth, CI/CD, and test suites — not just demos
+🔭 I'm currently building AI-integrated full-stack apps (Next.js, FastAPI, PostgreSQL)<br>👯 I'm looking to collaborate on PropTech and health-tech projects<br>🌱 I'm currently learning Temporal workflows and MLOps<br>💬 Ask me about Next.js, FastAPI, RAG pipelines, or LLM-integrated apps<br>⚡ Fun fact: I build portfolio projects with real auth, CI/CD, and test suites, not just demos
 
 ## 🚀 Recent Projects
-- **[Smart_Tour](https://github.com/veenadhariponukumati/Smart_Tour)** — Self-guided apartment tour booking platform with a concurrency-safe booking flow, role-gated manager approval, and tokenized access-code issuance. Next.js 16, Prisma, Clerk.
-- **[AI_JOB_COPILOT](https://github.com/veenadhariponukumati/AI_JOB_COPILOT)** — Resume-to-job-description matching platform: RAG-based skill extraction, explainable hybrid scoring, and LLM-generated skill-validation quizzes. Next.js, FastAPI, pgvector.
-- **[healthpredict-ai](https://github.com/veenadhariponukumati/healthpredict-ai)** — Hospital readmission risk prediction with SHAP explainability and durable Temporal/n8n care-coordination workflows. FastAPI, Next.js, PostgreSQL.
-- **[image-to-action-ai](https://github.com/veenadhariponukumati/image-to-action-ai)** — Turns screenshots and handwritten notes into structured tasks and reminders via GPT-4o vision, with full auth and CI. React, tRPC, Postgres.
-- **[Personal-Finance-Tracker-web-app](https://github.com/veenadhariponukumati/Personal-Finance-Tracker-web-app)** — Income/expense tracker with a guardrailed AI spending-insights copilot (deterministic queries only, AI never touches raw data). Next.js, Prisma, PostgreSQL.
+- **[Smart_Tour](https://github.com/veenadhariponukumati/Smart_Tour)**: Self-guided apartment tour booking platform with a concurrency-safe booking flow, role-gated manager approval, and tokenized access-code issuance. Next.js 16, Prisma, Clerk.
+- **[AI_JOB_COPILOT](https://github.com/veenadhariponukumati/AI_JOB_COPILOT)**: Resume-to-job-description matching platform: RAG-based skill extraction, explainable hybrid scoring, and LLM-generated skill-validation quizzes. Next.js, FastAPI, pgvector.
+- **[healthpredict-ai](https://github.com/veenadhariponukumati/healthpredict-ai)**: Hospital readmission risk prediction with SHAP explainability and durable Temporal/n8n care-coordination workflows. FastAPI, Next.js, PostgreSQL.
+- **[image-to-action-ai](https://github.com/veenadhariponukumati/image-to-action-ai)**: Turns screenshots and handwritten notes into structured tasks and reminders via GPT-4o vision, with full auth and CI. React, tRPC, Postgres.
+- **[Personal-Finance-Tracker-web-app](https://github.com/veenadhariponukumati/Personal-Finance-Tracker-web-app)**: Income/expense tracker with a guardrailed AI spending-insights copilot (deterministic queries only, AI never touches raw data). Next.js, Prisma, PostgreSQL.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veenadhari-ponukumati-5089071b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veenadhariponukumati@gmail.com) [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/veenadhari.ponukumati7437/vizzes)
