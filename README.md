@@ -4,10 +4,10 @@
 I build AI-powered software end to end, from backend APIs and data systems to LLM workflows, user interfaces, testing, and deployment. My work focuses on reliable AI applications, including RAG pipelines, multimodal AI, explainable ML, workflow orchestration, authentication, RBAC, and production-oriented backend systems.
 
 ## 🚀 Recent Projects
-- **[Smart_Tour](https://github.com/veenadhariponukumati/Smart_Tour)**: Self-guided apartment tour booking platform with a concurrency-safe booking flow, role-gated manager approval, and tokenized access-code issuance. Next.js 16, Prisma, Clerk.
-- **[AI_JOB_COPILOT](https://github.com/veenadhariponukumati/AI_JOB_COPILOT)**: Resume-to-job-description matching platform: RAG-based skill extraction, explainable hybrid scoring, and LLM-generated skill-validation quizzes. Next.js, FastAPI, pgvector.
 - **[healthpredict-ai](https://github.com/veenadhariponukumati/healthpredict-ai)**: Hospital readmission risk prediction with SHAP explainability and durable Temporal/n8n care-coordination workflows. FastAPI, Next.js, PostgreSQL.
+- **[AI_JOB_COPILOT](https://github.com/veenadhariponukumati/AI_JOB_COPILOT)**: Resume-to-job-description matching platform: RAG-based skill extraction, explainable hybrid scoring, and LLM-generated skill-validation quizzes. Next.js, FastAPI, pgvector.
 - **[image-to-action-ai](https://github.com/veenadhariponukumati/image-to-action-ai)**: Turns screenshots and handwritten notes into structured tasks and reminders via GPT-4o vision, with full auth and CI. React, tRPC, Postgres.
+-  **[Smart_Tour](https://github.com/veenadhariponukumati/Smart_Tour)**: Self-guided apartment tour booking platform with a concurrency-safe booking flow, role-gated manager approval, and tokenized access-code issuance. Next.js 16, Prisma, Clerk.
 - **[Personal-Finance-Tracker-web-app](https://github.com/veenadhariponukumati/Personal-Finance-Tracker-web-app)**: Income/expense tracker with a guardrailed AI spending-insights copilot (deterministic queries only, AI never touches raw data). Next.js, Prisma, PostgreSQL.
 
 ## 💻 Tech Stack:
