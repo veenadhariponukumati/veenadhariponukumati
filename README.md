@@ -1,11 +1,7 @@
-## About Me
+##  Hi, I'm Veenadhari Ponukumati 👋
+                                    ## AI Software Engineer | Full-Stack AI Systems | Workflow Automation
 
-                                                                Hi, I'm Veenadhari Ponukumati 👋
-                                              AI Software Engineer | Full-Stack AI Systems | Workflow Automation
-
-I build AI-powered software end to end, from backend APIs and data systems to LLM workflows, user interfaces, testing, and deployment.
-
-My work focuses on reliable AI applications, including RAG pipelines, multimodal AI, explainable ML, workflow orchestration, authentication, RBAC, and production-oriented backend systems.
+I build AI-powered software end to end, from backend APIs and data systems to LLM workflows, user interfaces, testing, and deployment. My work focuses on reliable AI applications, including RAG pipelines, multimodal AI, explainable ML, workflow orchestration, authentication, RBAC, and production-oriented backend systems.
 
 ## 🚀 Recent Projects
 - **[Smart_Tour](https://github.com/veenadhariponukumati/Smart_Tour)**: Self-guided apartment tour booking platform with a concurrency-safe booking flow, role-gated manager approval, and tokenized access-code issuance. Next.js 16, Prisma, Clerk.
